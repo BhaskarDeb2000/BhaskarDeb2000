@@ -6,6 +6,8 @@ I'm a passionate Full Stack Developer with in Node.js and React.js. Welcome to m
 - 💻 I'm proficient in HTML, CSS, JavaScript, Node.js, and React.js.
 - 📫 How to reach me: [Orghodeb@gmail.com](Orghodeb@gmail.com)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrghoDeb&show_icons=true&theme=radical)
+
 ## Skills
 - HTML
 - CSS
