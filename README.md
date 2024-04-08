@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer with in Node.js and React.js. Welcome to m
 
 ## About Me
 - 💻 I'm proficient in HTML, CSS, JavaScript, Node.js, and React.js.
-- 📫 How to reach me: [Orghodeb@gmail.com](Orghodeb@gmail.com)
+- 📫 How to reach me: [bhaskardeb120@gmail.com](bhaskardeb120@gmail.com)
 
 ## Skills
 - HTML
