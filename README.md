@@ -1,4 +1,4 @@
-# Hi there, I'm [Bhaskar](https://orghodeb.github.io/) 👋
+# Hi there, I'm [Bhaskar](https://bhaskardeb2000.github.io/) 👋
 
 I'm a passionate Full Stack Developer with in Node.js and React.js. Welcome to my GitHub profile! Here you'll find some of my projects and contributions.
 
