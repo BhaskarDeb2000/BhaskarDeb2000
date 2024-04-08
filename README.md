@@ -20,7 +20,7 @@ I'm a passionate Full Stack Developer with in Node.js and React.js. Welcome to m
 Feel free to explore my repositories for more projects and contributions. If you find something interesting or have any feedback, don't hesitate to reach out!
 
 ## Connect with Me
-- [GitHub](https://github.com/OrghoDeb)
+- [GitHub](https://github.com/BhaskarDeb2000)
 - [LinkedIn](https://www.linkedin.com/in/bhaskardeb1)
 
 ## Hobby
