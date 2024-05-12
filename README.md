@@ -1,6 +1,6 @@
 # Hi there, I'm [Bhaskar](https://bhaskardeb2000.github.io/) 👋
 
-I'm a passionate Full Stack Developer with in Node.js and React.js. Welcome to my GitHub profile! Here you'll find some of my projects and contributions.
+I'm a passionate Full Stack Developer with Node.js and React.js. Welcome to my GitHub profile! Here you'll find some of my projects and contributions.
 
 ![Bhaskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhaskarDeb2000&show_icons=true&theme=onedark)
 
@@ -9,6 +9,7 @@ I'm a passionate Full Stack Developer with in Node.js and React.js. Welcome to m
 - 📫 How to reach me: [bhaskardeb120@gmail.com](bhaskardeb120@gmail.com)
 
 ## Skills
+- C Programming
 - HTML
 - CSS
 - JavaScript
