@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+  <img align="right" alt="coding" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 </p>
 
 I'm a passionate Full Stack Developer with expertise in Node.js and React.js. Welcome to my GitHub profile! Here you'll find some of my projects and contributions.
