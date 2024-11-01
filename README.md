@@ -29,7 +29,6 @@ I'm a passionate Full Stack Developer with expertise in Node.js and React.js. We
 </p>
 
 - 🌱 I'm currently studying at Helsinki Business College to become a full-stack developer
-- These are my BCH Projects:<br> <a href="https://bc-hcars-project.vercel.app/" target="_blank">Cars Project</a> <br> <a href= "https://personal-portfolio-kohl-theta.vercel.app/" target="_blank">Portfolio</a>
 
 - 📫 How to reach me: **[bhaskardeb120@gmail.com](mailto:bhaskardeb120@gmail.com)**
 
