@@ -28,7 +28,7 @@ I'm a passionate Full Stack Developer with expertise in Node.js and React.js. We
   <img src="https://komarev.com/ghpvc/?username=BhaskarDeb2000&label=Profile%20views&color=0e75b6&style=flat" alt="BhaskarDeb2000" />
 </p>
 
-- 🌱 I'm currently studying at Helsinki Business College to become a full-stack developer
+- 🌱 I've Graduated from Helsinki Business College as a full-stack developer
 
 - 📫 How to reach me: **[bhaskardeb120@gmail.com](mailto:bhaskardeb120@gmail.com)**
 
