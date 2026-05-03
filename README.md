@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img align="right" alt="coding" width="400" padding:1rem src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+  <img align="right" alt="coding" width="200" padding:1rem src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 </p>
 
 I'm a passionate Full Stack Developer with expertise in Node.js and React.js. Welcome to my GitHub profile! Here you'll find some of my projects and contributions.
@@ -60,7 +60,7 @@ I'm a passionate Full Stack Developer with expertise in Node.js and React.js. We
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png" alt="adobe" width="40" height="40"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-icon.png" alt="adobe" width="40" height="40"/>
   </a>
 </p>
 
