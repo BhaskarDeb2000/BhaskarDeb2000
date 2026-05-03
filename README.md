@@ -35,11 +35,10 @@ I'm a passionate Full Stack Developer with expertise in Node.js and React.js. We
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div style='display: flex; left: space-around;'>
 <p align="left">
   <a href="https://www.cprogramming.com/" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
+  </a> 
   <a href="https://www.w3schools.com/css/" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
@@ -65,7 +64,7 @@ I'm a passionate Full Stack Developer with expertise in Node.js and React.js. We
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-icon.png" alt="adobe" width="40" height="40"/>
   </a>
 </p>
-</div>
+
 
 
 <h2>GitHub Stats</h2>
