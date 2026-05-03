@@ -29,6 +29,7 @@ I'm a passionate Full Stack Developer with expertise in Node.js and React.js. We
 </p>
 
 - 🌱 I've Graduated from Helsinki Business College as a full-stack developer
+- I am now studying in BIT at Haaga-Helia University of Applied Sciences majoring in ICT Infrastructure and Cloud Services 
 
 - 📫 How to reach me: **[bhaskardeb120@gmail.com](mailto:bhaskardeb120@gmail.com)**
 
