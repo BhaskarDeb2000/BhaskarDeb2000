@@ -33,7 +33,9 @@ I'm a passionate Full Stack Developer with expertise in Node.js and React.js. We
 
 - 📫 How to reach me: **[bhaskardeb120@gmail.com](mailto:bhaskardeb120@gmail.com)**
 
+
 <h3 align="left">Languages and Tools:</h3>
+<div style='display: flex; left: space-around;'>
 <p align="left">
   <a href="https://www.cprogramming.com/" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -63,12 +65,10 @@ I'm a passionate Full Stack Developer with expertise in Node.js and React.js. We
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-icon.png" alt="adobe" width="40" height="40"/>
   </a>
 </p>
+</div>
+
 
 <h2>GitHub Stats</h2>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhaskarDeb2000&show_icons=true&theme=radical&card_width=320" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarDeb2000&layout=compact&langs_count=8&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhaskarDeb2000&theme=radical" alt="BhaskarDeb2000" />
