@@ -58,15 +58,12 @@ I'm a passionate Full Stack Developer with expertise in Node.js and React.js. We
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/bhaskardeb1/">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaskar" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/BhaskarDeb2000">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bhaskar" height="30" width="40" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/bhaskardeb1/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
+    <td><a href="https://github.com/BhaskarDeb2000"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a></td>
+  </tr>
+</table>
 
 When I'm not coding, you can often find me behind the lens capturing the beauty of the world through my photography hobby. Whether it's landscapes, portraits, or street photography, I love exploring new perspectives and moments frozen in time.
 
