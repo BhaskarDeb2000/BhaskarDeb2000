@@ -53,7 +53,7 @@ export default function Contact() {
         whileInView={{ opacity: 1 }}
         viewport={{ once: true }}
         style={{
-          background: 'radial-gradient(ellipse 60% 50% at 50% 100%, rgba(34,197,94,0.08), transparent)',
+          background: 'radial-gradient(ellipse 60% 50% at 50% 100%, rgba(0,229,255,0.08), transparent)',
         }}
       />
 

@@ -35,7 +35,7 @@ export default function About() {
               <motion.div
                 key={item.label}
                 className="panel p-5"
-                whileHover={{ y: -4, borderColor: 'rgba(34,197,94,0.3)' }}
+                whileHover={{ y: -4, borderColor: 'rgba(0,229,255,0.35)' }}
                 transition={{ type: 'spring', stiffness: 300, damping: 20 }}
               >
                 <dt className="font-mono text-[10px] uppercase tracking-widest text-fg-muted mb-2">

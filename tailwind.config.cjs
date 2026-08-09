@@ -9,23 +9,23 @@ module.exports = {
         mono: ['IBM Plex Mono', 'monospace'],
       },
       colors: {
-        bg: '#0a0f1a',
-        surface: '#111827',
-        border: '#1e293b',
+        bg: '#070d18',
+        surface: '#0e1829',
+        border: '#1a2a42',
         fg: {
-          DEFAULT: '#f1f5f9',
-          muted: '#94a3b8',
+          DEFAULT: '#e8eef8',
+          muted: '#8494ad',
         },
         accent: {
-          DEFAULT: '#22c55e',
-          soft: '#4ade80',
-          dim: '#16a34a',
+          DEFAULT: '#00e5ff',
+          soft: '#67f0ff',
+          dim: '#00b8d4',
         },
-        violet: {
-          glow: '#818cf8',
+        teal: {
+          glow: '#3b82f6',
         },
-        sky: {
-          glow: '#38bdf8',
+        cyan: {
+          glow: '#60a5fa',
         },
       },
     },

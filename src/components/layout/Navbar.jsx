@@ -21,7 +21,7 @@ export default function Navbar() {
   return (
     <>
       <motion.div
-        className="fixed top-0 left-0 right-0 h-[2px] bg-gradient-to-r from-accent via-sky-glow to-violet-glow origin-left z-[60]"
+        className="fixed top-0 left-0 right-0 h-[2px] bg-gradient-to-r from-accent via-cyan-glow to-teal-glow origin-left z-[60]"
         style={{ scaleX }}
       />
       <header

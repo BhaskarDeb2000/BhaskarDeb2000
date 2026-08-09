@@ -6,7 +6,7 @@ export default function GradientMesh() {
       <motion.div
         className="absolute -top-[40%] -left-[20%] w-[70vw] h-[70vw] rounded-full opacity-30"
         style={{
-          background: 'radial-gradient(circle, rgba(34,197,94,0.35) 0%, transparent 70%)',
+          background: 'radial-gradient(circle, rgba(0,229,255,0.28) 0%, transparent 70%)',
         }}
         animate={{ x: [0, 40, 0], y: [0, 30, 0] }}
         transition={{ duration: 18, repeat: Infinity, ease: 'easeInOut' }}
@@ -14,7 +14,7 @@ export default function GradientMesh() {
       <motion.div
         className="absolute top-[20%] -right-[15%] w-[55vw] h-[55vw] rounded-full opacity-25"
         style={{
-          background: 'radial-gradient(circle, rgba(129,140,248,0.4) 0%, transparent 70%)',
+          background: 'radial-gradient(circle, rgba(59,130,246,0.34) 0%, transparent 70%)',
         }}
         animate={{ x: [0, -35, 0], y: [0, 45, 0] }}
         transition={{ duration: 22, repeat: Infinity, ease: 'easeInOut' }}
@@ -22,7 +22,7 @@ export default function GradientMesh() {
       <motion.div
         className="absolute -bottom-[30%] left-[25%] w-[60vw] h-[60vw] rounded-full opacity-20"
         style={{
-          background: 'radial-gradient(circle, rgba(56,189,248,0.3) 0%, transparent 70%)',
+          background: 'radial-gradient(circle, rgba(96,165,250,0.26) 0%, transparent 70%)',
         }}
         animate={{ x: [0, 25, 0], y: [0, -30, 0] }}
         transition={{ duration: 20, repeat: Infinity, ease: 'easeInOut' }}

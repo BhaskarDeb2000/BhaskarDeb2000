@@ -171,7 +171,7 @@ export default function Hero() {
               <motion.div
                 className="absolute -inset-4 rounded-3xl opacity-60"
                 style={{
-                  background: 'linear-gradient(135deg, rgba(34,197,94,0.2), rgba(129,140,248,0.15), rgba(56,189,248,0.1))',
+                  background: 'linear-gradient(135deg, rgba(0,229,255,0.2), rgba(59,130,246,0.14), rgba(96,165,250,0.1))',
                 }}
                 animate={{ rotate: [0, 3, 0, -3, 0] }}
                 transition={{ duration: 12, repeat: Infinity, ease: 'easeInOut' }}
