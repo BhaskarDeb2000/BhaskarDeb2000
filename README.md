@@ -1,4 +1,4 @@
-# Hi there, I'm [Bhaskar Deb](https://bhaskar-deb.vercel.app/#/en) 👋
+# Hi there, I'm [Bhaskar Deb](https://bhaskardeb.vercel.app/) 👋
 
 <p align="center">
   <a href="https://github.com/404">
@@ -95,7 +95,7 @@ Software Developer with practical experience building scalable web applications 
   <tr>
     <td><a href="https://www.linkedin.com/in/bhaskardeb1/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
     <td><a href="https://github.com/BhaskarDeb2000"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a></td>
-    <td><a href="https://bhaskar-deb.vercel.app/#/en">Portfolio</a></td>
+    <td><a href="https://bhaskardeb.vercel.app/">Portfolio</a></td>
     <td><a href="mailto:bhaskardeb120@gmail.com">Email</a></td>
   </tr>
 </table>
