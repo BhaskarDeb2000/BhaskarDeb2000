@@ -31,7 +31,7 @@ Software Developer with practical experience building scalable web applications 
 - 📍 Based in Helsinki, Finland
 - 📫 Reach me: **[bhaskardeb120@gmail.com](mailto:bhaskardeb120@gmail.com)**
 
- <img align="right" alt="coding" width="500" padding:1rem src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+ <img align="right" alt="coding" width="300" padding:1rem src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 ## Experience
 
