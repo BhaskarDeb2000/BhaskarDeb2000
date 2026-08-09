@@ -24,6 +24,9 @@ Software Developer with practical experience building scalable web applications 
   <img src="https://komarev.com/ghpvc/?username=BhaskarDeb2000&label=Profile%20views&color=0e75b6&style=flat" alt="BhaskarDeb2000" />
 </p>
 
+ <img align="right" alt="coding" width="300" padding:1rem src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+
+
 - 💼 **Software Developer Lead** at [StepTask](https://bhaskar-deb.vercel.app/#/en) (May 2025 – Present) — leading a three-sided EU service marketplace (React/TypeScript + Supabase)
 - 🛠️ Previously **Software Developer** at Hobiver (Mar 2025 – Sep 2025) — full-stack features, REST APIs, and performance work
 - 🎓 Bachelor in Business Information Technology at Haaga-Helia University of Applied Sciences (2025–2027)
@@ -31,7 +34,6 @@ Software Developer with practical experience building scalable web applications 
 - 📍 Based in Helsinki, Finland
 - 📫 Reach me: **[bhaskardeb120@gmail.com](mailto:bhaskardeb120@gmail.com)**
 
- <img align="right" alt="coding" width="300" padding:1rem src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 ## Experience
 
