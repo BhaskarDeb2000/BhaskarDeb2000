@@ -28,7 +28,7 @@ Software Developer with practical experience building scalable web applications 
 
 
 - 💼 **Software Developer Lead** at [StepTask](https://steptask.fi) (May 2025 – Present) — leading a three-sided EU service marketplace (React/TypeScript + Supabase)
-- 🛠️ Previously **Software Developer** at Hobiver (Mar 2025 – Sep 2025) — full-stack features, REST APIs, and performance work
+- 🛠️ Previously **Software Developer** at [Hobiver](https://www.hobiver.com/) (Mar 2025 – Sep 2025) — full-stack features, REST APIs, and performance work
 - 🎓 Bachelor in Business Information Technology at Haaga-Helia University of Applied Sciences (2025–2027)
 - 🎓 Graduated Full-Stack Web Development Program at Helsinki Business College (2024–2026)
 - 📍 Based in Helsinki, Finland
